@@ -1,0 +1,17 @@
+/*default--------------------*/
+
+body {
+	font-size: 32px;
+	text-decoration: none;
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	min-height: 100%;
+}
+
+.conteiner {
+	max-width: 1180px;
+	margin: 0 auto;
+}

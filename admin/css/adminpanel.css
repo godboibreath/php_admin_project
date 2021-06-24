@@ -1,0 +1,30 @@
+@import '_null_style.css';
+@import 'style.css';
+@import 'headeradmin.css';
+@import 'footeradmin.css';
+
+
+body {
+	font-size: 32px;
+	text-decoration: none;
+}
+
+.content {
+	flex: 1 0 auto;
+	background-color: #FFAA73;
+
+}
+
+.content__row {
+	display: flex;
+	flex-direction: column;
+}
+
+.content__title {
+	text-align: center;
+	font-size: 46px;
+}
+
+.content__item {
+	margin: 25px 0;
+}

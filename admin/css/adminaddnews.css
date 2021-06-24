@@ -1,0 +1,62 @@
+@import '_null_style.css';
+@import 'style.css';
+@import 'headeradmin.css';
+@import 'footeradmin.css';
+
+.addnews {
+	background-color: #FFAA73;
+
+}
+
+.addnews p {
+	text-align: center;
+	font-size: 42px;
+}
+
+.addnews__wrap {}
+
+.addnews__form {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.addnews__area {}
+
+.addnews__area p {
+	font-size: 34px;
+}
+
+.addnews__label {}
+
+.addnews__input {
+	margin: 20px 0;
+	width: 500px;
+	display: block;
+	height: 70px;
+	border: 1px solid rgb(22, 231, 231);
+	background-color: rgb(201, 153, 198);
+	padding: 5px;
+	font-size: 25px;
+}
+
+.addnews__textarea {
+	margin: 20px 0;
+	width: 500px;
+	height: 400px;
+	display: block;
+	border: 1px solid rgb(22, 231, 231);
+	background-color: rgb(201, 153, 198);
+	padding: 5px;
+	font-size: 25px;
+}
+
+.addnews__but {
+	margin: 20px auto;
+	width: 200px;
+	height: 70px;
+	display: block;
+	padding: 5px;
+	border: 1px solid rgb(22, 231, 231);
+	background-color: rgb(201, 153, 198);
+	font-size: 25px;
+}

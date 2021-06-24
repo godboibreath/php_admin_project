@@ -1,0 +1,31 @@
+/*header---------------------*/
+
+.header {
+	background-color: #E266B7;
+}
+
+.header a {
+	color: #030202;
+}
+
+
+.header__row {
+	display: flex;
+	justify-content: space-between;
+}
+
+.header__img {
+	max-width: 175px;
+	max-height: 175px;
+	display: block;
+}
+
+.header__menu {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.header__menu li {
+	margin: 20px 50px;
+}

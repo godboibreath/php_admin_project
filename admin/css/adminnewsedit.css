@@ -1,0 +1,16 @@
+@import '_null_style.css';
+@import 'style.css';
+@import 'headeradmin.css';
+@import 'footeradmin.css';
+
+.editor {
+	background-color: #FFAA73;
+	min-height: 100%;
+}
+
+.editor__block {
+	display: flex;
+	justify-content: space-around;
+}
+
+.editor__button {}

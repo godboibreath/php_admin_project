@@ -1,0 +1,42 @@
+@import '_null_style.css';
+@import 'header.css';
+@import 'footer.css';
+@import 'style.css';
+
+.news {
+	flex: 1 1 auto;
+	background-color: #FFAA73;
+}
+
+.news__row {
+	display: flex;
+	flex-direction: column;
+}
+
+.news__column {
+	margin: 15px 0;
+}
+
+.news__title {
+	font-size: 26px;
+}
+
+.news__id {
+	font-size: 14px;
+}
+
+.news__heading {
+	font-size: 26px;
+}
+
+.news__prew {
+	font-size: 20px;
+}
+
+.news__author {
+	font-size: 16px;
+}
+
+.news__date {
+	font-size: 14px;
+}

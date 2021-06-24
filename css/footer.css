@@ -1,0 +1,20 @@
+/*footer----------*/
+
+.footer {
+	background-color: #6899D3;
+}
+
+.footer a {
+	color: #030202;
+	flex: 0 0 auto;
+}
+
+.footer__contact {
+	display: flex;
+	justify-self: center;
+}
+
+.footer__contact li {
+	margin: 0 auto;
+	;
+}
